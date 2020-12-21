@@ -1,1 +1,33 @@
-ECHO is on.
+body {
+  background-color: black;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+header h3 a,
+footer h3 a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+main h1,
+footer h1 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+main h3 {
+  font-size: 21px;
+  color: gray;
+}
+
+footer p {
+  color: gray;
+  text-align: right;
+}
